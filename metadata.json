@@ -1,0 +1,23 @@
+{
+  "name": "EQPS Panasonic Suite",
+  "short_name": "EQPS",
+  "description": "Suíte Industrial Integrada de Engenharia e Qualidade.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#001A41",
+  "theme_color": "#002D72",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968313.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968313.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "requestFramePermissions": []
+}
